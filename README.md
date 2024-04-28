@@ -11,7 +11,7 @@ Welcome to the SkinVision-AI Project repository! This project utilizes the Googl
 # Deployment
 The project is deployed using Streamlit Sharing. You can access the deployed application at the following URL:
 
-[SkinVision-AI Project]()
+[SkinVision-AI Project](https://skinvision-ai.streamlit.app/)
 
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
